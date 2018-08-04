@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web Design &#8211; Dimitris Archontis Portfolio</title>
+	<atom:link href="http://dimarch.github.io/portfolio/portfolio-category/web-design/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dimarch.github.io/portfolio</link>
+	<description>Portfolio</description>
+	<lastBuildDate>Fri, 03 Aug 2018 17:23:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>NOTES</title>
+		<link>http://dimarch.github.io/portfolio/portfolio/notes/</link>
+		<pubDate>Sun, 24 Sep 2017 08:16:07 +0000</pubDate>
+		<dc:creator><![CDATA[dimitrisar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.lion-coders.com/wp/hello/?post_type=portfolio&#038;p=117</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<section class="kc-elm kc-css-517485 kc_row"><div class="kc-row-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-504709 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container"><p>Portfolio Details Block element can only be used in Portfolio Details Page.</p>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">shout@example.com</a>
+    </div>
+</div></div></div></div></div></section>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>TIMES</title>
+		<link>http://dimarch.github.io/portfolio/portfolio/times/</link>
+		<pubDate>Sun, 24 Sep 2017 08:15:24 +0000</pubDate>
+		<dc:creator><![CDATA[dimitrisar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.lion-coders.com/wp/hello/?post_type=portfolio&#038;p=115</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<section class="kc-elm kc-css-230958 kc_row"><div class="kc-row-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-660486 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container"><p>Portfolio Details Block element can only be used in Portfolio Details Page.</p>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">shout@example.com</a>
+    </div>
+</div></div></div></div></div></section>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>LOOK</title>
+		<link>http://dimarch.github.io/portfolio/portfolio/look/</link>
+		<pubDate>Sun, 24 Sep 2017 08:11:49 +0000</pubDate>
+		<dc:creator><![CDATA[dimitrisar]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.lion-coders.com/wp/hello/?post_type=portfolio&#038;p=107</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<section class="kc-elm kc-css-474054 kc_row"><div class="kc-row-container"><div class="kc-wrap-columns"><div class="kc-elm kc-css-835797 kc_col-sm-12 kc_column kc_col-sm-12"><div class="kc-col-container"><p>Portfolio Details Block element can only be used in Portfolio Details Page.</p>
+<div class="row text-center">
+    <div class="col-md-12 btn-email">
+        <a class="btn lowercase">shout@example.com</a>
+    </div>
+</div></div></div></div></div></section>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
